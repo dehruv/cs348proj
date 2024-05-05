@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Libre Franklin;
+  src: url("/fonts/LibreFranklin-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Libre Franklin Italic;
+  src: url("/fonts/LibreFranklin-Italic-VariableFont_wght.ttf")
+    format("truetype");
+}
